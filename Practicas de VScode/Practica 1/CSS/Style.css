@@ -1,0 +1,52 @@
+*{
+    margin: 1;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: white;
+    font-size: 2em;
+    text-align: center;
+    text-decoration-color: tomato;
+    font-style: italic;
+}
+
+h2 {
+    color: white;
+    font-size: 1em;
+    text-align: center;
+    font-style: oblique;
+    }
+
+    h3 {
+        color: violet;
+        font-style: italic;
+        text-align: center;
+        font: small-caps;
+    } 
+h4 {
+    color: darkgoldenrod;
+    text-align: center;
+    text-decoration: darkgreen;
+    text-shadow: darkorchid;
+}
+
+.img100 {
+    width: 1332px;
+    height: 720px;
+    text-align: left;
+}
+
+.img200 {
+    width: 664px;
+    height: 470px;
+}
+
+.img300 {
+    width: 441px ;
+    height: 300px;
+}
